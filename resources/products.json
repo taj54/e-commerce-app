@@ -1,0 +1,336 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Cotton T-Shirt",
+        "description": "A soft and breathable t-shirt made from 100% organic cotton. Perfect for everyday wear.",
+        "price": 25,
+        "image": "https://media.istockphoto.com/id/1032524982/de/foto/bio-kleidung-t-shirts-h%C3%A4ngen-holzb%C3%BCgel-mit-gr%C3%BCnen-w%C3%A4ldern-natur-im-hintergrund.jpg?s=612x612&w=0&k=20&c=S14HeFfVR8oJT5AY8WzRRj4KHcdsh6nxvZFd1P33XSA=",
+        "variants": [
+            "Small",
+            "Medium",
+            "Large",
+            "X-Large"
+        ],
+        "variantType": "Size",
+        "variantPrices": {
+            "Small": 22,
+            "Medium": 25,
+            "Large": 28,
+            "X-Large": 30
+        }
+    },
+    {
+        "id": 2,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Immersive sound experience with noise-cancelling technology and a comfortable over-ear design.",
+        "price": 120,
+        "image": "https://media.istockphoto.com/id/1412240771/de/foto/kopfh%C3%B6rer-auf-wei%C3%9Fem-hintergrund.jpg?s=612x612&w=0&k=20&c=y1jY-KQdmCYPHdpaVcbdmOG5eAKW_cjVMOsqOEi0dbE=",
+        "variants": [
+            "Black",
+            "Silver",
+            "Rose Gold"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "Black": 120,
+            "Silver": 125,
+            "Rose Gold": 130
+        }
+    },
+    {
+        "id": 3,
+        "name": "Stainless Steel Water Bottle",
+        "description": "Keep your drinks hot or cold for hours with this durable and eco-friendly water bottle.",
+        "price": 18,
+        "image": "https://media.istockphoto.com/id/1423379549/de/vektor/blank-metall-isolierte-wasserflasche-vektor-modell-wiederverwendbarer-reisesportkolben-aus.jpg?s=612x612&w=0&k=20&c=ocktQ8PZTtzRGwGqhZsvht3CwbEdd5I2XATEwqzMy5g=",
+        "variants": [
+            "500ml",
+            "750ml",
+            "1000ml"
+        ],
+        "variantType": "Volume",
+        "variantPrices": {
+            "500ml": 18,
+            "750ml": 22,
+            "1000ml": 25
+        }
+    },
+    {
+        "id": 4,
+        "name": "Ergonomic Office Chair",
+        "description": "Support your posture and enhance productivity with this fully adjustable ergonomic office chair.",
+        "price": 250,
+        "image": "https://media.istockphoto.com/id/1341094496/photo/happy-biracial-businesswoman-freelancer-sit-by-computer-at-comfy-workplace.jpg?s=612x612&w=0&k=20&c=nITtoZBbPS2_lFyQvsfB8QJd5gfR6536CfAoI34dupI=",
+        "variants": [
+            "Black Mesh",
+            "Grey Fabric"
+        ],
+        "variantType": "Material/Color",
+        "variantPrices": {
+            "Black Mesh": 250,
+            "Grey Fabric": 265
+        }
+    },
+    {
+        "id": 5,
+        "name": "Artisan Coffee Blend (500g)",
+        "description": "A rich and aromatic blend of ethically sourced coffee beans, perfect for your morning brew.",
+        "price": 15,
+        "image": "https://media.istockphoto.com/id/1495352851/de/video/spinnende-klingen-einer-modernen-kaffeer%C3%B6sterei-kaffeebohnen-im-inneren.jpg?s=640x640&k=20&c=RoAUYXArfzJUcCn5jd_ZvfMe8Aysos5eml9VzQO2qIY=",
+        "variants": [
+            "Whole Bean",
+            "Ground"
+        ],
+        "variantType": "Form",
+        "variantPrices": {
+            "Whole Bean": 15,
+            "Ground": 16
+        }
+    },
+    {
+        "id": 6,
+        "name": "Yoga Mat with Carrying Strap",
+        "description": "Non-slip and extra-thick yoga mat for comfortable and stable practice. Includes a convenient carrying strap.",
+        "price": 30,
+        "image": "https://media.istockphoto.com/id/1060950954/photo/beautiful-latino-female-in-sports-clothing.jpg?s=612x612&w=0&k=20&c=K9HWq2nh6ILwzDoGRyD3TL2SVs03hXy0qbnFTnxBXzE=",
+        "variants": [
+            "Blue",
+            "Purple",
+            "Green"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "Blue": 30,
+            "Purple": 30,
+            "Green": 32
+        }
+    },
+    {
+        "id": 7,
+        "name": "Smart Home Speaker with Voice Assistant",
+        "description": "Control your smart home devices, play music, and get answers with this intuitive voice-activated speaker.",
+        "price": 80,
+        "image": "https://media.istockphoto.com/id/1761614776/video/smart-home-speaker-with-assistant-to-play-music-static-on-desk-at-home-concept-of-a-smart-home.jpg?s=640x640&k=20&c=LCyDGQWy74KonzJtt1mYgvkcCLqbnWgETsHCZ0QL3HQ=",
+        "variants": [
+            "Charcoal",
+            "Light Grey"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "Charcoal": 80,
+            "Light Grey": 85
+        }
+    },
+    {
+        "id": 8,
+        "name": "Durable Hiking Backpack (30L)",
+        "description": "Designed for comfort and durability on the trails. Features multiple compartments and hydration compatibility.",
+        "price": 75,
+        "image": "https://media.istockphoto.com/id/1320149810/photo/traveling-backpack.jpg?s=612x612&w=0&k=20&c=rVJuSxn9CvAe_p07oXo_Mi-fIOaL8c5HCQwfSkXqr2M=",
+        "variants": [
+            "Forest Green",
+            "Navy Blue"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "Forest Green": 75,
+            "Navy Blue": 78
+        }
+    },
+    {
+        "id": 9,
+        "name": "Digital Drawing Tablet",
+        "description": "Unleash your creativity with this high-precision digital drawing tablet, ideal for artists and designers.",
+        "price": 150,
+        "image": "https://media.istockphoto.com/id/1444802071/photo/business-meeting-businessman-man-office-portrait-entrepreneur-smart-confident-colleague.jpg?s=612x612&w=0&k=20&c=3Hfk9a1MlShH8oqTm2d2tNJzAaiZwWyxyZP3idSjN8c=",
+        "variants": [
+            "Small (6x4 inch)",
+            "Medium (8x6 inch)"
+        ],
+        "variantType": "Size",
+        "variantPrices": {
+            "Small (6x4 inch)": 150,
+            "Medium (8x6 inch)": 180
+        }
+    },
+    {
+        "id": 10,
+        "name": "Gourmet Chocolate Box (12 pcs)",
+        "description": "An exquisite selection of handcrafted chocolates with unique fillings and rich flavors.",
+        "price": 28,
+        "image": "https://media.istockphoto.com/id/1306263490/photo/set-of-chocolate-sweets.jpg?s=612x612&w=0&k=20&c=861zwTNzXZcA960TBZHbIDYzFzq01Ot2NnA_wY-XduU=",
+        "variants": [
+            "Assorted",
+            "Dark Chocolate"
+        ],
+        "variantType": "Flavor/Type",
+        "variantPrices": {
+            "Assorted": 28,
+            "Dark Chocolate": 32
+        }
+    },
+    {
+        "id": 11,
+        "name": "Portable Power Bank (10,000mAh)",
+        "description": "Stay charged on the go with this compact and powerful portable charger for your devices.",
+        "price": 35,
+        "image": "https://media.istockphoto.com/id/1344829086/vector/a-power-bank-device-with-a-mobile-phone-charging-cable-isolated-on-a-plain-background.jpg?s=612x612&w=0&k=20&c=rHOPT7FbBJamXPRDVSUu8-wkV2BW3lwfNN5Je1sV1eM=",
+        "variants": [
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "Black": 35,
+            "White": 35,
+            "Blue": 38
+        }
+    },
+    {
+        "id": 12,
+        "name": "Ceramic Coffee Mug Set (4 pcs)",
+        "description": "Stylish and durable ceramic mugs, perfect for your daily coffee or tea ritual.",
+        "price": 22,
+        "image": "https://media.istockphoto.com/id/1226619395/photo/coffee-mugs-collection.jpg?s=612x612&w=0&k=20&c=EZuJNMBMUWTP1suaJR4EePJkVuwg-lpV504h2bjvv9k=",
+        "variants": [
+            "Assorted Colors",
+            "Neutral Tones"
+        ],
+        "variantType": "Color Palette",
+        "variantPrices": {
+            "Assorted Colors": 22,
+            "Neutral Tones": 24
+        }
+    },
+    {
+        "id": 13,
+        "name": "Beginner Acoustic Guitar Kit",
+        "description": "Everything you need to start playing: acoustic guitar, tuner, picks, and spare strings.",
+        "price": 180,
+        "image": "https://media.istockphoto.com/id/894058150/photo/musical-instruments.jpg?s=612x612&w=0&k=20&c=Q-TXlbUcgn3X-FKSiRmgV1uG1nq6T7CVs0VhNrl-7Yk=",
+        "variants": [
+            "Natural Wood",
+            "Sunburst"
+        ],
+        "variantType": "Finish",
+        "variantPrices": {
+            "Natural Wood": 180,
+            "Sunburst": 195
+        }
+    },
+    {
+        "id": 14,
+        "name": "Noise-Cancelling Earbuds",
+        "description": "Compact and comfortable earbuds with active noise cancellation for undisturbed listening.",
+        "price": 90,
+        "image": "https://media.istockphoto.com/id/1408799801/photo/wireless-blue-headphones-and-a-closed-charging-box-on-an-orange-background-a-popular-wireless.jpg?s=612x612&w=0&k=20&c=IioTPcTSjMxFr5K14iV89Prph5O4ibUnIYk0-NZvhqE=",
+        "variants": [
+            "White",
+            "Black"
+        ],
+        "variantType": "Color",
+        "variantPrices": {
+            "White": 90,
+            "Black": 90
+        }
+    },
+    {
+        "id": 15,
+        "name": "Indoor Plant Set (3 small plants)",
+        "description": "Add a touch of greenery to your home with these easy-to-care-for indoor plants.",
+        "price": 45,
+        "image": "https://media.istockphoto.com/id/1210585180/photo/modern-minimalism-living-room-decoration-decor-on-table-in-house-with-green-pink-flowers-in.jpg?s=612x612&w=0&k=20&c=YFGUvlk0r_ZOP93_OX4kyBKTFrcAXhB8_68a5Fxoz8I=",
+        "variants": [
+            "Assorted Succulents",
+            "Tropical Foliage"
+        ],
+        "variantType": "Plant Type",
+        "variantPrices": {
+            "Assorted Succulents": 45,
+            "Tropical Foliage": 50
+        }
+    },
+    {
+        "id": 16,
+        "name": "Professional Chef Knife Set",
+        "description": "High-carbon stainless steel knives for precision and durability in the kitchen. Includes a knife block.",
+        "price": 200,
+        "image": "https://media.istockphoto.com/id/1154060324/photo/kitchen-knives-set-on-wood-cutting-board.jpg?s=612x612&w=0&k=20&c=lqZioMNpVzGXKzGS3EnYKuzYr58KD-25-NCexQ0TSeQ=",
+        "variants": [
+            "5-piece set",
+            "8-piece set"
+        ],
+        "variantType": "Set Size",
+        "variantPrices": {
+            "5-piece set": 200,
+            "8-piece set": 320
+        }
+    },
+    {
+        "id": 17,
+        "name": "Fitness Tracker Smartwatch",
+        "description": "Monitor your health and fitness with heart rate tracking, step counter, and sleep analysis.",
+        "price": 160,
+        "image": "https://media.istockphoto.com/id/1291101465/photo/over-shoulder-view-on-woman-using-tracker-software.jpg?s=612x612&w=0&k=20&c=_G2YPb8VTuw84_c5OmLMhpnJx4y49biHh_Ysjj4t7AU=",
+        "variants": [
+            "Black Band",
+            "Pink Band",
+            "Blue Band"
+        ],
+        "variantType": "Band Color",
+        "variantPrices": {
+            "Black Band": 160,
+            "Pink Band": 165,
+            "Blue Band": 165
+        }
+    },
+    {
+        "id": 18,
+        "name": "Sustainable Bamboo Utensil Set",
+        "description": "An eco-friendly and stylish alternative to plastic utensils. Perfect for picnics and travel.",
+        "price": 12,
+        "image": "https://media.istockphoto.com/id/1187346339/photo/zero-waste-concept-cotton-bag-bamboo-cultery-glass-jar-bamboo-toothbrushes-hairbrush-and.jpg?s=612x612&w=0&k=20&c=mY1m6lcmPUJ3myXp43eb2P1OAeI8FjspbPNCFBUhJMk=",
+        "variants": [
+            "Standard Set",
+            "Travel Set with Pouch"
+        ],
+        "variantType": "Type",
+        "variantPrices": {
+            "Standard Set": 12,
+            "Travel Set with Pouch": 15
+        }
+    },
+    {
+        "id": 19,
+        "name": "Classic Board Game Collection",
+        "description": "Enjoy hours of fun with friends and family with this collection of timeless board games.",
+        "price": 40,
+        "image": "https://media.istockphoto.com/id/610744976/vector/chess-piece-set.jpg?s=612x612&w=0&k=20&c=wn3ae8dRR14hmt6fx3z-L7jYLf_xKEFRATyUmdI2pXI=",
+        "variants": [
+            "Family Edition",
+            "Strategy Edition"
+        ],
+        "variantType": "Edition",
+        "variantPrices": {
+            "Family Edition": 40,
+            "Strategy Edition": 55
+        }
+    },
+    {
+        "id": 20,
+        "name": "High-Performance Laptop",
+        "description": "Powerful and versatile laptop for work, gaming, and creative tasks. Featuring a stunning display.",
+        "price": 1200,
+        "image": "https://media.istockphoto.com/id/1248263998/photo/isolated-high-tech-open-laptop-with-abstract-vibrant-color-screen-on-a-dark-background.jpg?s=612x612&w=0&k=20&c=_kn4qt0zDFZ6HuYgyKEzlXqhCPVkPk2thngK_MW-OPo=",
+        "variants": [
+            "13-inch",
+            "15-inch"
+        ],
+        "variantType": "Screen Size",
+        "variantPrices": {
+            "13-inch": 1200,
+            "15-inch": 1450
+        }
+    }
+]

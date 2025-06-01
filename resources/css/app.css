@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.MuiInputBase-input:focus {
+  border-color: transparent !important;
+  box-shadow: none !important;
+}
