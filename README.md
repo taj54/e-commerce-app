@@ -21,7 +21,7 @@ A full-stack e-commerce application built with Laravel (PHP) and React (frontend
 ### 1. **Clone the Repository**
 
 ```sh
-git clone https://github.com/your-username/e-commerce-app.git
+git clone https://github.com/taj54/e-commerce-app.git
 cd e-commerce-app
 ```
 
